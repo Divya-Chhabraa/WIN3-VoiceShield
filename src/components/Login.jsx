@@ -41,9 +41,9 @@ const Login = () => {
     <div className="min-h-screen gradient-bg flex items-center justify-center px-4">
       <div className="w-full max-w-md">
         <div className="text-center mb-8">
-          <h1 className="text-5xl font-bold text-white mb-2">🎤 VoiceShield</h1>
+          <h1 className="text-5xl font-bold text-white mb-2">VoiceShield 🛡️</h1>
           <p className="text-xl text-white/90">
-            Real-time Voice Verification for Online Examinations
+            ©️ Team MERNify
           </p>
         </div>
 
