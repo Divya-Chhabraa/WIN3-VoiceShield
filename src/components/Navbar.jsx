@@ -18,12 +18,12 @@ const Navbar = ({ onLogout }) => {
           <div className="flex items-center">
             <h1 className="text-2xl font-bold text-white">VoiceShield 🛡️ - Team MERNify</h1>
           </div>
-          <button
+          {/* <button
             onClick={handleLogout}
             className="px-4 py-2 bg-white/20 hover:bg-white/30 text-white rounded-lg transition-colors"
           >
             Logout
-          </button>
+          </button> */}
         </div>
       </div>
     </nav>
